@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sujeetsg1372" target="blank"><img src="https://img.shields.io/twitter/follow/sujeetsg1372?logo=twitter&style=for-the-badge" alt="sujeetsg1372" /></a> </p>
 
-- 🔭 I’m currently working on **Implement an advanced RAG system using LlamaIndex to enhance document retrieval efficiency.![image](https://github.com/Sujgaik2003/Sujgaik2003/assets/118328948/34e3e8ca-d9f5-4503-8b30-6ef7547bdf37)
-**
+- 🔭 I’m currently working on **Implement an advanced RAG system using LlamaIndex to enhance document retrieval efficiency**
 
 - 🌱 I’m currently learning **Genrative AI **
 

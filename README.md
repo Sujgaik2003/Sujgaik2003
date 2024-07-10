@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujgaik2003" alt="sujgaik2003" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sujeetsg1372" target="blank"><img src="https://img.shields.io/twitter/follow/sujeetsg1372?logo=twitter&style=for-the-badge" alt="sujeetsg1372" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sujeet-gaikwad03" target="blank"><img src="https://img.shields.io/twitter/follow/sujeetsg1372?logo=twitter&style=for-the-badge" alt="Linkedin" /></a> </p>
 
 - 🔭 I’m currently working on **Implement an advanced RAG system using LlamaIndex to enhance document retrieval efficiency**
 

@@ -20,10 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sujeetsg1372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujeetsg1372" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sujeet gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeet gaikwad" height="30" width="40" /></a>
-<a href="https://instagram.com/sujeet_2003_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujeet_2003_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/unknown facts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unknown facts" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sujeet_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujeet_2003" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sujeet-gaikwad03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeet gaikwad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Genrative AI **
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sujgaik2003/IncomePred.git](https://github.com/Sujgaik2003/IncomePred.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Sujgaik2003?tab=repositories)
 
 - 💬 Ask me about **Machine learning **
 

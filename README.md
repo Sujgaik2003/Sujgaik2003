@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **Sujeetsg1372@gmail.com**
 
-- Website  - [https://axonmind.42web.io/)
+- Website 🔗![WebDevWebsiteDevelopmentGIF](https://github.com/Sujgaik2003/Sujgaik2003/assets/118328948/7138b84e-94c2-4f5c-9e78-b3d0ae5dff31)
+ - [https://axonmind.42web.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,17 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/sujeetsg1372" target="blank"><img src="https://img.shields.io/twitter/follow/sujeetsg1372?logo=twitter&style=for-the-badge" alt="sujeetsg1372" /></a> </p>
 
-- 🔭 I’m currently working on **Solving Car Damage Detection Task**
+- 🔭 I’m currently working on **Implement an advanced RAG system using LlamaIndex to enhance document retrieval efficiency.![image](https://github.com/Sujgaik2003/Sujgaik2003/assets/118328948/34e3e8ca-d9f5-4503-8b30-6ef7547bdf37)
+**
 
-- 🌱 I’m currently learning **Genrative AI (GNN)**
-
-- 🤝 I’m looking for help with **Block Chain AND Crop Disease Management**
+- 🌱 I’m currently learning **Genrative AI **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sujgaik2003/IncomePred.git](https://github.com/Sujgaik2003/IncomePred.git)
 
-- 📝 I regularly write articles on [https://infocolonbroom.blogspot.com/](https://infocolonbroom.blogspot.com/)
-
-- 💬 Ask me about **Machine learning Deep learning**
+- 💬 Ask me about **Machine learning **
 
 - 📫 How to reach me **Sujeetsg1372@gmail.com**
 
